@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NDTV24X7.in" tvg-name="NDTV 24X7" group-title="News" parent-code="1234"
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-2 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News" parent-code="1234"
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-3 tvg-id="CNBCAWAAZ.in" tvg-name="CNBC AWAAZ" group-title="News" parent-code="1234"
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-4 tvg-id="CNBCTV18.in" tvg-name="CNBC TV18" group-title="News" parent-code="1234"
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-  DD National iptv playlist / link
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-  DD News iptv playlist / link
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-  DD Sports iptv playlist / link (Opt-2) 
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-5 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" parent-code="1234"
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-  DD Sports iptv playlist / link  (Opt-1) 
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
